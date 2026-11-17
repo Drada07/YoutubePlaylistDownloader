@@ -1,7 +1,5 @@
 # YouTube Playlist Downloader
 
-# Stand with Israel!
-
 ## If the files don't show up after you download a playlist, close and reopen the program (older versions had a first-run bug) and make sure the save directory is writable. Running as administrator is not required. If it still fails, check `%APPDATA%\Youtube Playlist Downloader\Errors.txt` and attach it to an issue.
 
 ## What is it?
